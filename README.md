@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hello World :raised_hands:
+
+- 🔭 I’m currently working as Software Developer
+- 📝 I write about few things on my [blog](https://whoami-shubham.github.io).
+- 👯 I’m looking to collaborate on any cool project.
+- 📫 Best way to reach me via [LinkedIn](https://linkedin.com/in/whoamishubham)
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=whoami-shubham.visitor-badge">
+<p/>
 
 <!--
 **whoami-shubham/whoami-shubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
