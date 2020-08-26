@@ -1,6 +1,6 @@
 ## Hello World :raised_hands:
 
-- 🔭 I’m currently working as Software Developer  <img src="./undraw_developer.png" width="300">
+- 🔭 I’m currently working as Software Developer  <img src="https://raw.githubusercontent.com/whoami-shubham/whoami-shubham/master/undraw_developer.png" width="270">
 - 📝 I write about few things on my [blog](https://whoami-shubham.github.io).
 - 👯 I’m looking to collaborate on any cool project.
 - 📫 Best way to reach me via [LinkedIn](https://linkedin.com/in/whoamishubham)
