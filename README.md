@@ -16,7 +16,6 @@
 <a href="https://whoamishubham.github.io/"><img alt="Website" src="https://img.shields.io/badge/Portfolio-whoamishubham.github.io-222222?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/whoamishubham/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shubham%20Jha-0e76a8?style=flat-square&logo=linkedin"></a>
 <a href="https://www.twitter.com/whoami_shubham/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-whoami__shubham-00acee?style=flat-square&logo=twitter"></a>
-<a href="https://www.instagram.com/whoami_shubham/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-whoami__shubham-FCAF45?style=flat-square&logo=instagram"></a>
 </p>
 <!--
 **whoami-shubham/whoami-shubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
